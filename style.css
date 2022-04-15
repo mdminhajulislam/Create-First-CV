@@ -1,0 +1,152 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  background-color: rgb(173, 202, 210);
+  font-family: 'Roboto Slab', serif;
+
+}
+ /* here start container */
+ .container {
+   max-width: 1000px;
+   background-color: rgba(97, 156, 178, 0.913);
+   margin: 0 auto;
+   padding: 20px;
+
+ }
+ /* here is start now header */
+ header {
+
+ }
+
+ /* here is now start image */
+.ima {
+  height: 100px;
+  width: 100px;
+  border: 1px solid white;
+  border-radius: 50%;
+  float: left;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: rgb(22, 232, 232);
+}
+h1 span {
+  color:black;
+}
+.name{
+float: left;
+padding: 30px;
+
+}
+
+.contact {
+  float:right;
+
+}
+.contact a {
+text-decoration: none;
+color: rgb(221, 240, 240);
+font-weight: bold;
+padding: 20px;
+}
+.contact a:hover {
+text-decoration: underline;
+color:rgb(168, 27, 233);
+
+}
+.clear {
+  clear: both;
+}
+hr{
+  border: 2px solid black;
+  width: 100%;
+  margin: 30 px auto;
+  border-bottom: none;
+}
+/* here end header */
+
+/* here  start main */
+main {
+
+
+}
+/* personal start */
+#personal-informaiton{
+
+}
+.content {
+  margin: 30 px auto;
+}
+.left {
+  width:30%;
+  float: left;
+ 
+}
+.right {
+width: 70%;
+float: left;
+}
+
+.common-hr {
+  border: 1px solid rgb(6, 4, 4);
+  border-bottom: none;
+  width: 100%;
+  margin: 20px auto;
+}
+.clear {
+  clear: both;
+}
+/* education start */
+#education {
+
+}
+.content{
+padding: 20px auto;
+}
+.first {
+width: 30%;
+float: left;
+
+}
+.middle {
+  width: 35%;
+  float: left;
+}
+.third {
+  width: 35%;
+  float: left;
+}
+.one {
+  width:31.5%;
+  float: left;
+}
+.two {
+  width:68.5%;
+  float: left;
+}
+
+/* footer start now */
+
+.container1 {
+
+  background-color: black;
+  text-align: center;
+  padding: 40px;
+
+}
+.container1 a {
+  text-decoration: none;
+  color: white;
+  margin: 20px;
+}
+
+
+#copy {
+  text-align: center;
+  color: whitesmoke;
+  padding-top: 50px;
+}
